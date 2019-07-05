@@ -1,0 +1,5 @@
+###git ignore
+timestart/*.iml
+.idea
+timestart/target
+README.md
